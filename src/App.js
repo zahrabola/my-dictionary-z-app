@@ -1,5 +1,3 @@
-
-import "./App.css";
 import SearchDictionary from "./SearchDictionary";
 
 function App() {
