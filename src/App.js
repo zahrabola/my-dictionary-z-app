@@ -8,7 +8,7 @@ function App() {
       <footer>
         <div className="link">
           <p>Coded by Zahra Olanrewaju</p>
-          <a href="https://github.com/zahrabola/my-w-z-app">
+          <a href="https://github.com/zahrabola/my-dictionary-z-app">
             Open sourece Github
           </a>
           <p>Hosted on Netlify</p>
