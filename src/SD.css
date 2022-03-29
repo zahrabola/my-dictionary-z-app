@@ -1,0 +1,9 @@
+.SearchDictionary {
+  padding: 20px;
+  margin: 20px;
+}
+input {
+  width: 40%;
+  padding: 10px 20px;
+   box-sizing: border-box;
+}
