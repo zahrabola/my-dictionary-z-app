@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import axios from "axios";
 import Result from "./Result";
 import "./SD.css";
+
 export default function SearchDictionary() {
   let [KeyWord, SetKeyWord] = useState("");
   let [results, Setresults] = useState(null);
@@ -24,6 +25,7 @@ export default function SearchDictionary() {
   }
   return (
     <div className="SearchDictionary">
+      <h2>Dictionary</h2>
       <form onSubmit={search}>
         <input type="search" autoFocus={true} onChange={handleKeyWordChange} />
       </form>

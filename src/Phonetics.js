@@ -1,5 +1,6 @@
 import React from "react";
 import { FaMicrophone } from "react-icons/fa";
+import "./Phonetic.css";
 
 export default function Phonetic (props) {
     console.log(props.phonetic);
@@ -9,7 +10,7 @@ export default function Phonetic (props) {
         <br />
         <br />
         <a href={props.phonetic.audio} >
-          <FaMicrophone className="Microphone-icon" size="1.3em" />
+          <FaMicrophone className="Microphone-icon" size="2.5em" />
         </a>
       </div>
     );

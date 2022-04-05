@@ -1,0 +1,40 @@
+
+body {
+  background: #f97783;
+}
+
+.App {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+h1 {
+  margin: 30px 0;
+    text-align: center;
+    font-size: 30px;
+}
+
+.link {
+  text-align: center;
+  margin: 30px 0;
+}
+.App-header, .link {
+  margin: 30px 0;
+ padding: 20px;
+  margin: 20px;
+  border-style:solid  #f4f4f4;
+  background-color: #f4f4f4;
+  border-radius: 15px;
+font-family: monospace;
+
+}
+a{
+  color: black;
+  text-decoration: none;
+}
+a:hover{
+  color:#f97783;
+  text-decoration: underline;
+}
+

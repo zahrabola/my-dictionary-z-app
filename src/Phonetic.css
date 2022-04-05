@@ -1,0 +1,16 @@
+.Phonetic {
+  margin: 20px 0;
+}
+.text-pho{
+    font-size: 25px;
+
+}
+.Microphone-icon{
+padding-bottom: 5px;
+  color: black;
+}
+.Microphone-icon:hover{
+color: #f97783;
+
+}
+

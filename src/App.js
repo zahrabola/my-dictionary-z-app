@@ -1,9 +1,12 @@
 import SearchDictionary from "./SearchDictionary";
+import "./App.css";
 
 function App() {
   return (
     <div className="App">
-      <h1>Hello from Zahra Olanrewaju</h1>
+      <div className="App-header">
+        <h1> Zahra's Dictionary </h1>
+      </div>
       <SearchDictionary />
       <footer>
         <div className="link">
