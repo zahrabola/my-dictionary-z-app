@@ -8,7 +8,7 @@ export default function Phonetic (props) {
         <span className="text-pho"> {props.phonetic.text} </span>
         <br />
         <br />
-        <a href={props.phonetic.audio} target="_blank">
+        <a href={props.phonetic.audio} >
           <FaMicrophone className="Microphone-icon" size="1.3em" />
         </a>
       </div>
