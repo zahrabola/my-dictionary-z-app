@@ -1,0 +1,21 @@
+.img-fluid{
+    max-width:100%;
+    height:auto;
+    
+
+ }
+ .Photos img {
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+.Photos {
+    margin: 30px 0;
+ padding: 20px;
+  margin: 20px;
+  border-style:solid  #f4f4f4;
+  background-color: #f4f4f4;
+  border-radius: 15px;
+font-family: monospace;
+ box-shadow: 0 10px 20px rgb(0 0 0 / 10%);
+
+}
